@@ -1,0 +1,24 @@
+{
+  "name": "bamazon-mysql",
+  "version": "1.0.0",
+  "description": "Bamazon npm project",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ciwonie/bamazon.git"
+  },
+  "author": "Jonathan Cirone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ciwonie/bamazon/issues"
+  },
+  "homepage": "https://github.com/Ciwonie/bamazon#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
