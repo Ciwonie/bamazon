@@ -38,3 +38,7 @@ node bamazonManager.js
 ```
 
 # Enjoy!
+
+
+### Screenshot Examples
+
