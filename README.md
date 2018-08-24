@@ -42,3 +42,12 @@ node bamazonManager.js
 
 ### Screenshot Examples
 
+Customer
+
+![image](https://user-images.githubusercontent.com/38769635/44559148-b3ef0680-a70d-11e8-8275-e4eb06c42321.png)
+![image](https://user-images.githubusercontent.com/38769635/44559164-ca955d80-a70d-11e8-880d-808ed1931e9c.png)
+![image](https://user-images.githubusercontent.com/38769635/44559181-dc770080-a70d-11e8-8847-d321c9efcf15.png)
+
+Manager
+
+![image](https://user-images.githubusercontent.com/38769635/44559215-13e5ad00-a70e-11e8-99b6-561e3030e504.png)
