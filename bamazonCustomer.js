@@ -41,7 +41,7 @@ var purchasing = () => {
                 type: 'input',
                 message: "Please identify the product you would like to purchase with the product's ID",
                 validate: function (value) {
-                    if (isNaN(value) === false && value > 0 && value < 12) {
+                    if (isNaN(value) === false && value > 0) {
                         return true;
                     }
                     return false;
