@@ -51,3 +51,7 @@ Customer
 Manager
 
 ![image](https://user-images.githubusercontent.com/38769635/44559215-13e5ad00-a70e-11e8-99b6-561e3030e504.png)
+
+# Icebox
+- display data in a formalized table
+- create a supervisor.js that can track customer and managerial data
